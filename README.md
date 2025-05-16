@@ -1,4 +1,4 @@
-# [Berkeley Police Patrol Optimization Dashboard](https://app-patrol-optimization-dashboard.streamlit.app/) 
+# Berkeley Police Patrol Optimization Dashboard 👉 [Link to Dashboard](https://app-patrol-optimization-dashboard.streamlit.app/) 
 
 A Streamlit-based web application for optimizing police patrol sector boundaries based on service call data and workload analysis.
 
